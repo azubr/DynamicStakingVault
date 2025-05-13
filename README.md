@@ -7,7 +7,7 @@
 ### Clone
 
 ```shell
-git clone --recurse-submodules
+git clone --recurse-submodules git@github.com:azubr/DynamicStakingVault.git
 ```
 
 ### Open
